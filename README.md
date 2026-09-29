@@ -16,3 +16,10 @@ Untuk file yang memiliki karakter kurung seperti `id().py` di folder `per2`, And
 ```bash
 python "per2/id().py"
 ```
+---
+
+## 📚 Sumber Referensi
+Materi pembelajaran dan panduan utama yang digunakan dalam proyek ini bersumber dari:
+* **Tutorial / E-book:** [Dasar Pemrograman Python](https://dasarpemrogramanpython.novalagung.com/) karya Noval Agung Prayogo.
+* **Versi PDF:** Anda dapat mengunduh versi PDF resminya melalui tautan [Dasar Pemrograman Python.pdf](https://dasarpemrogramanpython.novalagung.com/) (atau sesuaikan dengan direktori lokal Anda jika file PDF disimpan di repositori).
+* **Repositori Contoh Kode:** [dasarpemrogramanpython-example](https://github.com/novalagung/dasarpemrogramanpython-example)
