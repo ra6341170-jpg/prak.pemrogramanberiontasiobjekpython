@@ -2,8 +2,6 @@
 
 Program berbasis *Command Line Interface* (CLI) sederhana yang dibangun menggunakan Python dan SQLite. Program ini mensimulasikan pencatatan dan pengelolaan data Kartu Tanda Penduduk (KTP) dengan format detail yang menyerupai KTP asli di Indonesia. 
 
-Proyek ini dibuat untuk memenuhi tugas/kuis mata kuliah pemrograman.
-
 ## ✨ Fitur Utama
 - **Create (Tambah Data):** Menambahkan data KTP baru dengan sistem validasi ketat:
   - Validasi NIK wajib 16 digit angka.
